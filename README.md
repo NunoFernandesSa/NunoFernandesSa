@@ -13,23 +13,7 @@ Currently based in **Paris 🇫🇷** and comfortable working with **fully remot
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=springboot,django,nodejs" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma" />
-
-**Tools & Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,tailwind,spring,django,nodejs,postgres,mysql,sqlite,prisma,git,github,docker,figma,vscode" />
 
 ---
 
