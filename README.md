@@ -79,10 +79,4 @@ Currently based in **Paris 🇫🇷** and comfortable working with **fully remot
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/NunoFernandesSa/NunoFernandesSa/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ⭐ *Always open to collaborating on interesting projects and solving real-world problems with code.*
