@@ -17,30 +17,19 @@ Currently based in **Paris 🇫🇷** and comfortable working with **fully remot
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
 **Backend**
 
-* Spring Boot
-* Django
-* Django REST Framework
-* REST APIs
+<img src="https://skillicons.dev/icons?i=springboot,django,nodejs" />
 
 **Databases**
 
-* PostgreSQL
-* MySQL
-* SQLite
-* Prisma ORM
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma" />
 
 **Tools & Workflow**
 
-* Git / GitHub
-* Docker
-* CI/CD
-* Agile / Scrum
-* Figma
-* Android Studio
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode" />
 
 ---
 
