@@ -1,42 +1,44 @@
 # Hi there 👋 I'm Nuno Fernandes
 
-💻 **Full Stack Developer** | Open to **Remote EU opportunities**
+💻 **Full Stack Developer** | Open to **Remote EU Opportunities**
 
-I’m a full-stack developer passionate about building **modern web and mobile applications** using **TypeScript, React, React Native and Python backends**.
-I enjoy designing scalable architectures, integrating APIs and delivering clean, maintainable code that solves real problems.
+I’m a passionate full-stack developer focused on building **modern web and mobile applications** using **TypeScript, React, React Native, and Python backends**.  
+I thrive on designing **scalable architectures**, integrating APIs, and delivering **clean, maintainable code** that solves real problems.
 
-Currently based in **Paris 🇫🇷** and comfortable working with **fully remote international teams**.
+Based in **Paris 🇫🇷**, I’m experienced in collaborating with **fully remote, international teams**.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages**
+**Languages & Frameworks**
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,tailwind,spring,django,nodejs,postgres,mysql,sqlite,prisma,git,github,docker,figma,vscode" />
+
+**Other Skills:** Scalable architecture design, API integration, clean code practices, agile workflows.
 
 ---
 
 ## 🌱 Currently
 
-* 🎓 Bachelor's Degree in **Application Development (HETIC - Paris)**
-* 🚀 Improving skills in **TypeScript, scalable architectures and modern full-stack frameworks**
-* 🤝 Open to **remote freelance or full-time opportunities in the EU**
+* 🎓 Pursuing a Bachelor's Degree in **Application Development (HETIC - Paris)**  
+* 🚀 Deepening expertise in **TypeScript, scalable architectures, and modern full-stack frameworks**  
+* 🤝 Open to **remote freelance or full-time opportunities across the EU**
 
 ---
 
 ## 🌍 Languages
 
-* 🇵🇹 Portuguese — Native
-* 🇫🇷 French — Bilingual
-* 🇬🇧 English — Professional (B2)
+* 🇵🇹 Portuguese — Native  
+* 🇫🇷 French — Bilingual  
+* 🇬🇧 English — Professional (B2)  
 * 🇪🇸 Spanish — Advanced (C1)
 
 ---
 
 ## 🌐 Portfolio
 
-👉 https://nunofernandes-dev.vercel.app
+👉 [nunofernandes-dev.vercel.app](https://nunofernandes-dev.vercel.app)
 
 ---
 
@@ -46,4 +48,4 @@ Currently based in **Paris 🇫🇷** and comfortable working with **fully remot
 
 ---
 
-⭐ *Always open to collaborating on interesting projects and solving real-world problems with code.*
+⭐ *Always excited to collaborate on interesting projects and solve real-world problems with code.*
