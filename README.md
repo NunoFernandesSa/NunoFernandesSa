@@ -13,10 +13,7 @@ Currently based in **Paris 🇫🇷** and comfortable working with **fully remot
 
 **Languages**
 
-* JavaScript
-* TypeScript
-* Python
-* Java
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 
 **Frontend**
 
