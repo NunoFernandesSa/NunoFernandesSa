@@ -17,10 +17,7 @@ Currently based in **Paris 🇫🇷** and comfortable working with **fully remot
 
 **Frontend**
 
-* React
-* Next.js
-* React Native
-* Tailwind CSS
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind" />
 
 **Backend**
 
