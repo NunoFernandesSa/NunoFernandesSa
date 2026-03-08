@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi there 👋 I'm Nuno Fernandes
 
-<!--
-**NunoFernandesSa/NunoFernandesSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer** | Open to **Remote EU opportunities**
 
-Here are some ideas to get you started:
+I’m a full-stack developer passionate about building **modern web and mobile applications** using **TypeScript, React, React Native and Python backends**.
+I enjoy designing scalable architectures, integrating APIs and delivering clean, maintainable code that solves real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently based in **Paris 🇫🇷** and comfortable working with **fully remote international teams**.
+
+---
+
+## 🚀 Tech Stack
+
+**Languages**
+
+* JavaScript
+* TypeScript
+* Python
+* Java
+
+**Frontend**
+
+* React
+* Next.js
+* React Native
+* Tailwind CSS
+
+**Backend**
+
+* Spring Boot
+* Django
+* Django REST Framework
+* REST APIs
+
+**Databases**
+
+* PostgreSQL
+* MySQL
+* SQLite
+* Prisma ORM
+
+**Tools & Workflow**
+
+* Git / GitHub
+* Docker
+* CI/CD
+* Agile / Scrum
+* Figma
+* Android Studio
+
+---
+
+## 🌱 Currently
+
+* 🎓 Bachelor's Degree in **Application Development (HETIC - Paris)**
+* 🚀 Improving skills in **TypeScript, scalable architectures and modern full-stack frameworks**
+* 🤝 Open to **remote freelance or full-time opportunities in the EU**
+
+---
+
+## 🌍 Languages
+
+* 🇵🇹 Portuguese — Native
+* 🇫🇷 French — Bilingual
+* 🇬🇧 English — Professional (B2)
+* 🇪🇸 Spanish — Advanced (C1)
+
+---
+
+## 🌐 Portfolio
+
+👉 https://nunofernandes-dev.vercel.app
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+📧 [n.fernandes.contact@gmail.com](mailto:n.fernandes.contact@gmail.com)
+
+---
+
+⭐ *Always open to collaborating on interesting projects and solving real-world problems with code.*
