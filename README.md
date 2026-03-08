@@ -73,17 +73,15 @@ Currently based in **Paris 🇫🇷** and comfortable working with **fully remot
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 📧 [n.fernandes.contact@gmail.com](mailto:n.fernandes.contact@gmail.com)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/NunoFernandesSa/NunoFernandesSa/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
