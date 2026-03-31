@@ -2,7 +2,7 @@
 
 💻 **Full Stack Developer** | Open to **Remote EU Opportunities**
 
-I’m a passionate full-stack developer focused on building **modern web and mobile applications** using **TypeScript, React, React Native, and Python backends**.  
+I’m a passionate full-stack developer focused on building **modern web and mobile applications** using **TypeScript, React, React Native, and Java backends**.  
 I thrive on designing **scalable architectures**, integrating APIs, and delivering **clean, maintainable code** that solves real problems.
 
 Based in **Paris 🇫🇷**, I’m experienced in collaborating with **fully remote, international teams**.
