@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nuno Fernandes
+# Nuno Fernandes
 
 💻 **Full Stack Developer** | Open to **Remote EU Opportunities**
 
