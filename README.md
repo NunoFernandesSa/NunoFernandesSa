@@ -42,7 +42,7 @@ Equipped with a decennial background in industrial engineering and project manag
 ## 🌐 Portfolio & Profiles
 
 👉 [nunofernandes-dev.vercel.app](https://nunofernandes-dev.vercel.app)
-💼 [Find me on Malt](https://www.malt.fr) *(Update this link with your actual Malt profile URL)*
+💼 [Find me on Malt]([https://www.malt.fr](https://www.malt.fr/profile/nunofernandes)
 
 ---
 
